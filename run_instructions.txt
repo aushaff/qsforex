@@ -1,0 +1,4 @@
+run virtual env: 
+source ~/venv/qsforex/bin/activate
+spyder
+
